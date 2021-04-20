@@ -18,6 +18,8 @@ public class AleatorioEmple {
 		int pos, num, dep;
 		System.out.println(" ------------------------------------------");
 		System.out.println(" HOLA MUNDO");
+		System.out.println(" ADIOS MUNDO");
+		System.out.println(" ------------------------------------------");
 		if (file.length() > 0) {
 			pos = 0;
 			System.out.println(" ------------------------------------------");
