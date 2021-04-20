@@ -17,6 +17,7 @@ public class AleatorioEmple {
 		double salario;
 		int pos, num, dep;
 		System.out.println(" ------------------------------------------");
+		System.out.println(" HOLA MUNDO");
 		if (file.length() > 0) {
 			pos = 0;
 			System.out.println(" ------------------------------------------");
